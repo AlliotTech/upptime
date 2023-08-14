@@ -5,9 +5,13 @@ repo: upptime # The name of this repository
 sites:
   - name: Alliot's blog
     url: https://www.iots.vip
+    maxResponseTime: 1000
+    expectedStatusCodes:
+      - 200
 
   - name: Alliot's Wiki
     url: https://wiki.iots.vip
+    maxResponseTime: 1000
 
 
 
