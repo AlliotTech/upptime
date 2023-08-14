@@ -4,19 +4,19 @@
     "url": "https://www.iots.vip",
     "icon": "https://icons.duckduckgo.com/ip3/www.iots.vip.ico",
     "slug": "alliot-s-blog",
-    "status": "down",
-    "uptime": "96.35%",
-    "uptimeDay": "96.35%",
-    "uptimeWeek": "96.35%",
-    "uptimeMonth": "96.35%",
-    "uptimeYear": "96.35%",
-    "time": 1422,
-    "timeDay": 1422,
-    "timeWeek": 1422,
-    "timeMonth": 1422,
-    "timeYear": 1422,
+    "status": "up",
+    "uptime": "95.33%",
+    "uptimeDay": "95.33%",
+    "uptimeWeek": "95.33%",
+    "uptimeMonth": "95.33%",
+    "uptimeYear": "95.33%",
+    "time": 1328,
+    "timeDay": 1328,
+    "timeWeek": 1328,
+    "timeMonth": 1328,
+    "timeYear": 1328,
     "dailyMinutesDown": {
-      "2023-08-14": 26
+      "2023-08-14": 34
     }
   },
   {
