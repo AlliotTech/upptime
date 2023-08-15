@@ -4,19 +4,19 @@
     "url": "https://www.iots.vip",
     "icon": "https://icons.duckduckgo.com/ip3/www.iots.vip.ico",
     "slug": "alliot-s-blog",
-    "status": "down",
-    "uptime": "98.00%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "98.00%",
-    "uptimeMonth": "98.00%",
-    "uptimeYear": "98.00%",
-    "time": 890,
-    "timeDay": 409,
-    "timeWeek": 890,
-    "timeMonth": 890,
-    "timeYear": 890,
+    "status": "up",
+    "uptime": "97.37%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "97.37%",
+    "uptimeMonth": "97.37%",
+    "uptimeYear": "97.37%",
+    "time": 868,
+    "timeDay": 408,
+    "timeWeek": 868,
+    "timeMonth": 868,
+    "timeYear": 868,
     "dailyMinutesDown": {
-      "2023-08-15": 15,
+      "2023-08-15": 29,
       "2023-08-14": 26
     }
   },
@@ -25,7 +25,7 @@
     "url": "https://wiki.iots.vip",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.iots.vip.ico",
     "slug": "alliot-s-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,8 @@
     "timeWeek": 879,
     "timeMonth": 879,
     "timeYear": 879,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-15": 0
+    }
   }
 ]
