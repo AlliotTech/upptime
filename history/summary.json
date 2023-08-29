@@ -11,7 +11,7 @@
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.32%",
     "time": 576,
-    "timeDay": 446,
+    "timeDay": 434,
     "timeWeek": 520,
     "timeMonth": 576,
     "timeYear": 576,
@@ -28,7 +28,7 @@
     "url": "https://wiki.iots.vip",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.iots.vip.ico",
     "slug": "alliot-s-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
     "uptimeDay": "98.58%",
     "uptimeWeek": "99.34%",
@@ -40,6 +40,7 @@
     "timeMonth": 440,
     "timeYear": 440,
     "dailyMinutesDown": {
+      "2023-08-29": 0,
       "2023-08-28": 20,
       "2023-08-24": 46
     }
