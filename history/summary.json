@@ -4,7 +4,7 @@
     "url": "https://www.iots.vip",
     "icon": "https://icons.duckduckgo.com/ip3/www.iots.vip.ico",
     "slug": "alliot-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
     "uptimeDay": "98.63%",
     "uptimeWeek": "99.24%",
@@ -13,7 +13,7 @@
     "time": 842,
     "timeDay": 359,
     "timeWeek": 1373,
-    "timeMonth": 1019,
+    "timeMonth": 1024,
     "timeYear": 842,
     "dailyMinutesDown": {
       "2023-10-04": 20,
@@ -50,7 +50,7 @@
     "time": 1907,
     "timeDay": 244,
     "timeWeek": 1195,
-    "timeMonth": 2282,
+    "timeMonth": 2273,
     "timeYear": 1907,
     "dailyMinutesDown": {
       "2023-09-29": 22,
