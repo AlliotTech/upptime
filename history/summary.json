@@ -4,7 +4,7 @@
     "url": "https://www.iots.vip",
     "icon": "https://icons.duckduckgo.com/ip3/www.iots.vip.ico",
     "slug": "alliot-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
     "uptimeDay": "97.51%",
     "uptimeWeek": "99.30%",
@@ -16,6 +16,7 @@
     "timeMonth": 982,
     "timeYear": 807,
     "dailyMinutesDown": {
+      "2023-10-10": 0,
       "2023-10-09": 36,
       "2023-10-05": 15,
       "2023-10-04": 20,
